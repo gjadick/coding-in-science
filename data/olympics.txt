@@ -1,0 +1,37 @@
+No.	Host_City	Country	Continent	Year	Opening_Day	Closing_Day
+I	Athens	Greece	Europe	1896	6-Apr	15-Apr
+II	Paris	France	Europe	1900	14-May	28-Oct
+III	St. Louis	United States	North America	1904	1-Jul	23-Nov
+IV	London	United Kingdom	Europe	1908	27-Apr	31-Oct
+V	Stockholm	Sweden	Europe	1912	5-May	22-Jul
+VI	Berlin	Germany	Europe	1916	Cancelled due to World war I
+VII	Antwerp	Belgium	Europe	1920	20-Apr	12-Sep
+VIII	Paris	France	Europe	1924	4-May	27-Jul
+IX	Amsterdam	Netherlands	Europe	1928	17-May	12-Aug
+X	Los Angeles	United States	North America	1932	30-Jul	14-Aug
+XI	Berlin	Germany	Europe	1936	1-Aug	16-Aug
+XII	Tokyo	Japan	Asia	1940	Cancelled due to World war II
+XIII	London	United Kingdom	Europe	1944	Cancelled due to World war II
+XIV	London	United Kingdom	Europe	1948	29-Jul	14-Aug
+XV	Helsinki	Finland	Europe	1952	19-Jul	3-Aug
+XVI	Melbourne	Australia	Australia	1956	22-Nov	8-Dec
+XVI	Stockholm	Sweden	Europe	1956	10-Jun	17-Jun
+XVII	Rome	Italy	Europe	1960	25-Aug	11-Sep
+XVIII	Tokyo	Japan	Asia	1964	10-Oct	24-Oct
+XIX	Mexico City	Mexico	North America	1968	12-Oct	27-Oct
+XX	Munich	West Germany	Europe	1972	26-Aug	11-Sep
+XXI	Montreal	Canada	North America	1976	17-Jul	1-Aug
+XXII	Moscow	Soviet Union	Europe	1980	19-Jul	3-Aug
+XXIII	Los Angeles	United States	North America	1984	28-Jul	12-Aug
+XXIV	Seoul	South Korea	Asia	1988	17-Sep	2-Oct
+XXV	Barcelona	Spain	Europe	1992	25-Jul	9-Aug
+XXVI	Atlanta	United States	North America	1996	19-Jul	4-Aug
+XXVII	Sydney	Australia	Australia	2000	15-Sep	1-Oct
+XXVIII	Athens	Greece	Europe	2004	13-Aug	29-Aug
+XXIX	Beijing	China	Asia	2008	8-Aug	24-Aug
+XXX	London	United Kingdom	Europe	2012	27-Jul	12-Aug
+XXXI	Rio de Janeiro	Brazil	South America	2016	5-Aug	21-Aug
+XXXII	Tokyo	Japan	Asia	2021	23 July 2021	8 August 2021
+XXXIII	Paris	France	Europe	2024	26 July 2024	11 August 2024
+XXXIV	Los Angeles	United States	North America	2028	21 July 2028	6 August 2028
+XXXV	Brisbane	Australia	Australia	2032	TBD	TBD
